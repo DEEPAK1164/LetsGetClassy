@@ -1,4 +1,4 @@
-useEffect is a function to cal this function we have to pass another 
+useEffect is a function to call this function we have to pass another 
 function inside it called as callback function this will not be called
 immediately but it well get called whenever useEffect need to be called
 react will make sure it gets called at specific time which we are going to know 
